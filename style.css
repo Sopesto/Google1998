@@ -1,0 +1,66 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  border: 0px;
+}
+
+body{
+  text-align: center;
+}
+
+body div{
+  width: 70%;
+}
+
+main  *{
+  margin: auto;
+}
+
+main div:first-child{
+  padding-top: 8px;
+}
+
+#info h2{
+  padding: 5px 2px 15px;
+}
+
+#info div{
+  padding: 5px 2px 5px;
+}
+
+#busqueda, #suscripcion{
+  background-color: rgb(236, 236, 236);
+}
+
+#busqueda p:first-child{
+  padding-top: 6px;
+}
+
+#busqueda p:last-child{
+  font-style: italic;
+}
+
+input, select{
+  border: 1px solid gray;
+  border-radius: 2px;
+}
+
+#q{
+  width: 31%;
+}
+
+input{
+  padding: 2px 7px;
+}
+
+#suscripcion *{
+  margin-bottom: 3px;
+}
+
+#suscripcion p{
+  padding: 5px;
+}
+
+h5{
+  font-weight: 100;
+}
